@@ -7,4 +7,13 @@
     - These periods of time is what "Periodic Normality" refers to in the project report
         - The periods of normality indicated in this report are: [June 2006 - Nov 2014) amd [Nov 2014 - Dec 2021]
         - This notion helps machine learning algoriythms assess the risk associated with a specific rate extreamly efficently strictly using technical analysis.
-    - 
+    - 2006 to 2021 plot of USD/CAD foreign exchange rate
+    ![](https://github.com/jamiesolomon/ForeignExchangeNormality/blob/main/USDCAD_FullPlot.pdf)
+    
+    - First subset: June 2006 to November 2014
+    ![](https://github.com/jamiesolomon/ForeignExchangeNormality/blob/main/USDCAD_2006-2014_Plot.pdf)
+    ![](https://github.com/jamiesolomon/ForeignExchangeNormality/blob/main/2006-2014_CADUSD_Hist.pdf)
+    
+    - Second subset: November 2014 to Devember 2021
+    ![](https://github.com/jamiesolomon/ForeignExchangeNormality/blob/main/USDCAD_2014-2021_Plot.pdf)
+    ![](https://github.com/jamiesolomon/ForeignExchangeNormality/blob/main/2014-2021_CADUSD_Hist.pdf)
