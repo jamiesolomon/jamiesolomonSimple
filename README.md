@@ -1,6 +1,7 @@
 # Jamie Solomon - Data Science Projects
 
 ## Project 1: [Foreign Exchange Normality Analysis and Modeling](https://github.com/jamiesolomon/ForeignExchangeNormality)
+[Full Report](/images/FullReport.pdf)
  + EDA
     - Mainly focused on the EDA of the foreign exchange pairing USD/CAD
     - Proof supporting the hypothosis: The USD/CAD foreign exchange rate follows a normal distribution when seperated into longterm periods of time.
